@@ -3,8 +3,8 @@
 .terraform.lock.hcl
 .terraform.lock
 
-*.tfstate
-*.tfstate.backup
+terraform.tfstate
+terraform.tfstate.backup
 
 # ignore ssh keys
 *.pub
