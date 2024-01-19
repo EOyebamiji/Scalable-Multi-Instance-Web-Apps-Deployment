@@ -1,0 +1,8 @@
+region="us-east-1"
+profile="iamadmin-general"
+cidr_block="10.0.0.0/24"
+project-name="darksied"
+instance_type="t2.micro"
+domain-name="eoyebamiji.com"
+subdomain-name="terraform-test"
+bucket_name="eoyebamiji-state"
