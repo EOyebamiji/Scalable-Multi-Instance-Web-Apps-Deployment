@@ -1,6 +1,4 @@
-# AltSchool SOE: Cloud Engineering Third Semester Mini Project
-
-## Multi-Instance EC2 Deployment with Terraform and Ansible for Scalability of Web Applications
+# Multi-Instance EC2 Deployment with Terraform and Ansible for Scalability of Web Applications
 
 This project encompasses the following objectives:
 
